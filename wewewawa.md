@@ -1,5 +1,21 @@
-# Wewewawa
+# Hello World Code
 
-This is some new content in the wewewawa.md file.
+This file contains hello world examples.
 
-Created on branch borat.
+## Python
+
+```python
+print("Hello, World!")
+```
+
+## JavaScript
+
+```javascript
+console.log("Hello, World!");
+```
+
+## Bash
+
+```bash
+echo "Hello, World!"
+```
